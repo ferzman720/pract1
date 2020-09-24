@@ -1,5 +1,7 @@
 # pract1
-##Bioquimica
+##-Bioquimica
+-*Fer guzmán*
+
 ##electronica
 ##Ecuaciones diferenciales 
 
