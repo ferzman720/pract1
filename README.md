@@ -1,6 +1,8 @@
 # practica1
-***Punto número 1***
+*Punto número 2*
 ## - Bioquimica 
+- **Dr. Alberto Prado Farías**
 ## - Electrónica
-## - Termodinámica 
-
+- **Dr. Rafael G. Chávez Moreno**
+## - Termodinámica  
+- **Dr. Jorge Ferrer Pérez**
